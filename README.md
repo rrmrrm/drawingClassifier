@@ -1,7 +1,8 @@
 # drawingClassifier
 showcase for my simple tensorflow classifier.
 
-doesn't contain the program that creates the learning data and uses the trained neuralnetwork to classify new drawings
+This repo only contains the tensorflow neural network trainer and a pre-created dataset.
+So it doesn't contain the program that creates the learning data and uses the trained neuralnetwork to classify new drawings
 
 drawingClassifier.py:
 first:
