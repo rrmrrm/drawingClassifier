@@ -43,7 +43,7 @@ if len(sys.argv) > 10:
     else:
         retrain = False
 
-# áttanításkor a betöltött súlyok változatlanok maradjanak-e:
+# if freezeKeptWights and retraining is True, the weights from the loaded model will be trained as well as the additional weights
 freezeKeptWights = True
 
 
